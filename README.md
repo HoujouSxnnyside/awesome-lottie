@@ -87,6 +87,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * ThorVG [View](https://github.com/thorvg/thorvg)
 
 ## Tools
+* Animoria - Visual asset governance tool that finds unreferenced and duplicate Lottie and dotLottie files [View](https://extensions.sxnnysideproject.com/en/animoria/)
 * Lottie Interactivity Library - [View](https://lottiefiles.com/interactivity)
 * Lottie JSON Editor - [View](https://lottiefiles.com/tools/json-editor)
 * Lottie Web Editor - Editor Lottie Animations online [View](http://lottiefiles.com/editor)
